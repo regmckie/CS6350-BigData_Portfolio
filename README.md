@@ -41,7 +41,6 @@ The steps for this part of the assignment are as follows:
 
 The folder for the assignment is located [here.](https://github.com/regmckie/CS6350-BigData_Portfolio/tree/main/Assignment%201)
 
-
 ### Assignment 2: Friend Recommendation using Mutual Friends & Implementing Naive Bayes Classifier using Spark MapReduce
 In the _Friend Recommendation using Mutual Friends_ part, you will use Spark based MapReduce algorithm to generate friend
 recommendation for users. The recommendations will be based on number of mutual friends. For
@@ -72,7 +71,7 @@ The steps for this part of the assignment are as follows:
   4. Testing the model: Use the trained model to classify the documents in the testing set and
   evaluate the performance of the model.
 
-The folder for the assignment is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Assignment%202)
+The folder for the assignment is located [here.](https://github.com/regmckie/CS6350-BigData_Portfolio/tree/main/Assignment%202)
 
 ### Assignment 3: Spark Streaming with Real-Time Data and Kafka & Analyzing Social Networks using GraphX/GraphFrame
 In the _Spark Streaming with Real-Time Data and Kafka_ part, you will create a Spark Streaming application that will continuously read text data from
