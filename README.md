@@ -109,7 +109,7 @@ The queries for this part of the assignment are:
   5. Run the triangle counts algorithm on each of the vertices and output the top 5 vertices with the
   largest triangle count. In case of ties, you can randomly select the top 5 vertices.
 
-The folder for the assignment is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Assignment%201)
+The folder for the assignment is located [here.](https://github.com/regmckie/CS6350-BigData_Portfolio/tree/main/Assignment%203)
 
 ### Project
 The project has two key components to it: (1) Understanding a recent machine learning technique and associated algorithm(s) and (2) Implement and apply it to a standard dataset of sufficient complexity. You have to code the main part of the algorithm without using any built-in library. You can use libraries for pre-processing, loading, analysis of results, etc.
