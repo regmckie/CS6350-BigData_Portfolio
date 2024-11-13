@@ -1,0 +1,57 @@
+(a.) Find the top 5 nodes with the highest outdegree and find the count of the number of outgoing edges in each
+
++-------------+---------+
+|         name|outDegree|
++-------------+---------+
+|RepJeffDuncan|      120|
+|  RepFranklin|      121|
+|  RepJohnRose|      108|
+|    GOPLeader|      127|
+|  RepDonBeyer|      109|
++-------------+---------+
+
+(b.) Find the top 5 nodes with the highest indegree and find the count of the number of incoming edges in each
+
++-------------+--------+
+|         name|inDegree|
++-------------+--------+
+| RepBobbyRush|     111|
+|SpeakerPelosi|     210|
+|    GOPLeader|     157|
+| SteveScalise|      89|
+|   SenSchumer|      97|
++-------------+--------+
+
+(c.) Calculate PageRank for each of the nodes and output the top 5 nodes with the highest PageRank values. 
+You are free to define any suitable parameters.
+
++---+-------------+------------------+
+| id|         name|          pagerank|
++---+-------------+------------------+
+|367|SpeakerPelosi|6.6716229665456925|
+|322|    GOPLeader|4.9570044878155874|
+|393| RepBobbyRush|3.7250982484163635|
+|436|RepMarkTakano|3.0940686376861075|
+|179|  rosadelauro| 2.877991799020614|
++---+-------------+------------------+
+
+(d.) Run the connected components algorithm on it and find the top 5 components with the largest number of nodes.
+
++---------+-----+
+|component|count|
++---------+-----+
+|        0|  475|
++---------+-----+
+
+(e.) Run the triangle counts algorithm on each of the vertices and output the top 5 vertices with the largest triangle count. 
+In case of ties, you can randomly select the top 5 vertices. 
+
++-----+---+-------------+
+|count| id|         name|
++-----+---+-------------+
+| 3048|322|    GOPLeader|
+| 2799|367|SpeakerPelosi|
+| 1908|254|  LeaderHoyer|
+| 1789|208|  RepFranklin|
+| 1786|393| RepBobbyRush|
++-----+---+-------------+
