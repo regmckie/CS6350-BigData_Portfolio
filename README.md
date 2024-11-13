@@ -116,4 +116,4 @@ The project has two key components to it: (1) Understanding a recent machine lea
 
 For this project, I explored and implemented the PEGASUS (Pre-training with Extracted Gap-sentences for Abstractive Summarization) model to summarize a large corpus of text. More details are provided in the "Project" folder where you can read the project's own README.
 
-The folder for the project is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Project)
+The folder for the project is located [here.](https://github.com/regmckie/CS6350-BigData_Portfolio/tree/main/Project)
