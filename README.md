@@ -39,7 +39,8 @@ The steps for this part of the assignment are as follows:
   their relevance values in descending order. Note again, that you have to return movie names,
   and not movie ID. You would need to use the movie.metadata.tsv file to lookup the movie names.
 
-The folder for the assignment is located [here.](https://github.com/regmckie/CS6375-ML_Portfolio/tree/main/Assignment%201)
+The folder for the assignment is located [here.](https://github.com/regmckie/CS6350-BigData_Portfolio/tree/main/Assignment%201)
+
 
 ### Assignment 2: Friend Recommendation using Mutual Friends & Implementing Naive Bayes Classifier using Spark MapReduce
 In the _Friend Recommendation using Mutual Friends_ part, you will use Spark based MapReduce algorithm to generate friend
